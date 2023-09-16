@@ -1,3 +1,3 @@
-  <picture>
-    <source srcset="./img/banner.png" />
-  </picture>
+<picture>
+  <img src="./img/banner.png" alt="well, are you?">
+</picture>
